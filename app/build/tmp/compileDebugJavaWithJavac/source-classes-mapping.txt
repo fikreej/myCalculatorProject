@@ -1,0 +1,2 @@
+eu/tutorials/mycalculator/BuildConfig.java
+ eu.tutorials.mycalculator.BuildConfig
